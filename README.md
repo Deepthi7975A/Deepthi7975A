@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🎓 I’m currently pursuing *BE in Electronics and Communication* from Government Engineering College, Kushalnagar, VTU (2021–2025).
+- 🎓 I’m Recently graduated as an Electronics and communication Engineer from Government Engineering College, Kushalnagar, VTU (2021–2025).
 
 - 🌱 I’m currently enhancing my skills in *Full Stack Development using Python* through an internship at ParvaM Consul-tech Pvt. Ltd., Bengaluru.
 
